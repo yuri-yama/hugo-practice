@@ -1,1 +1,8 @@
 theme = "ananke"
+
+baseURL = "https://yuri-yama.github.io/hugo-practice/"
+languageCode = "ja"
+title = "Hugoおためす"
+disableKinds = ["RSS", "sitemap"]
+[taxonomies]
+tag = "tags"
