@@ -1,2 +1,0 @@
-# hugo-practice
-hugo
