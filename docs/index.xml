@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Test</title>
+    <link>https://yuri-yama.github.io/hugo-practice/</link>
+    <description>Recent content on Hugo Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://yuri-yama.github.io/hugo-practice/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
