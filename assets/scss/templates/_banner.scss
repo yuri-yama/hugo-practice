@@ -7,15 +7,16 @@
   }
 
   @include desktop-xl {
-    padding: 150px 0 260px;
+    padding: 150px 0 180px;
   }
 
   p {
     opacity: 0.70;
+    font-size: 17px;
   }
 
   h1 {
-    line-height: 68px;
+    line-height: 90px;
     z-index: 1;
 
     @include mobile-xs {

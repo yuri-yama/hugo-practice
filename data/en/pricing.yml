@@ -5,34 +5,34 @@ pricing:
   title : "choose your plan"
   pricing_table:
     # pricing table loop
-    - title : "Basic"
-      price : "$49"
-      unit : "month"
-      description : "Best for small individuals"
-      link : "#"
+    - title : "家族信託コンサルティング料"
+      price : "33"
+      # unit : "month"
+      # description : "Best for small individuals"
+      # link : "#"
       services:
-        - "Express Service"
-        - "Customs Clearance"
-        - "Time-Critical Services"
-        
+        - "※信託する財産の金額を基に算定します。信託財産1億円までは1％、1億円を超える場合、超えた部分について0.5％、金額が増えるほど、パーセンテージは下がります"
+        - "※契約書作成手数料が別途発生します"
+        # - "Time-Critical Services"
+
     # pricing table loop
-    - title : "Professional"
-      price : "$79"
-      unit : "month"
-      description : "Best for small individuals"
-      link : "#"
+    - title : "不動産を信託する場合"
+      price : "49.5"
+      # unit : "month"
+      # description : "Best for small individuals"
+      # link : "#"
       services:
-        - "Express Service"
-        - "Customs Clearance"
-        - "Time-Critical Services"
-        
-    # pricing table loop
-    - title : "Business"
-      price : "$99"
-      unit : "month"
-      description : "Best for small individuals"
-      link : "#"
-      services:
-        - "Express Service"
-        - "Customs Clearance"
-        - "Time-Critical Services"
+        - "※上記手数料のほかに、登録免許税（不動産評価額の0.4％）がかかります"
+        - "※信託契約書を公正証書で作成する場合、公証人手数料が別途発生します"
+        # - "Time-Critical Services"
+    #
+    # # pricing table loop
+    # - title : "Business"
+    #   price : "$99"
+    #   unit : "month"
+    #   description : "Best for small individuals"
+    #   link : "#"
+    #   services:
+    #     - "Express Service"
+    #     - "Customs Clearance"
+    #     - "Time-Critical Services"

@@ -819,11 +819,12 @@ textarea.form-control {
       padding: 190px 0 100px; } }
   @media (max-width: 1650px) {
     .hero-area {
-      padding: 150px 0 260px; } }
+      padding: 150px 0 180px; } }
   .hero-area p {
-    opacity: 0.70; }
+    opacity: 0.70;
+    font-size: 17px; }
   .hero-area h1 {
-    line-height: 68px;
+    line-height: 90px;
     z-index: 1; }
     @media (max-width: 400px) {
       .hero-area h1 {
@@ -913,6 +914,10 @@ textarea.form-control {
   top: 47%;
   left: 50%;
   transform: translate(-50%, -50%); }
+
+.voice_lead {
+  line-height: 50px;
+  font-weight: bold; }
 
 .card {
   border: 0; }

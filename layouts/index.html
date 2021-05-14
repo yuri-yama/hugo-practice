@@ -9,7 +9,7 @@
   <div class="container">
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-6 pl-lg-0 text-center text-lg-left">
-        <h1 class="text-white position-relative" data-aos="fade-up" data-aos-delay="1000">{{ .title }}<span class="watermark">{{ .watermark }}</span></h1>
+        <h1 class="text-white position-relative" data-aos="fade-up" data-aos-delay="1000">{{ .title | markdownify }}<span class="watermark">{{ .watermark }}</span></h1>
         <p class="text-white pt-2 pb-3" data-aos="fade-up" data-aos-delay="1200">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
@@ -30,7 +30,7 @@
 {{"<!-- partner -->"| safeHTML}}
 {{ if $data.homepage.partner.enable }}
 {{ with $data.homepage.partner }}
-<section>
+<!-- <section>
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -42,7 +42,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 {{ end }}
 {{ end }}
 {{"<!-- /partner -->"| safeHTML}}
@@ -55,7 +55,7 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
-        <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .title }}</h2>
+        <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .title | markdownify  }}</h2>
       </div>
       {{ range $index, $element:= .feature_item }}
       {{ $delay := mul $index 200 }}
@@ -86,7 +86,7 @@
       </div>
       <div class="col-lg-6 col-md-7 text-center text-md-left">
         <p class="subtitle" data-aos="fade-left">{{ .subtitle }}</p>
-        <h2 class="section-title" data-aos="fade-left" data-aos-delay="200">{{ .title }}</h2>
+        <h2 class="section-title" data-aos="fade-left" data-aos-delay="200">{{ .title | markdownify  }}</h2>
         <p class="mb-4" data-aos="fade-left" data-aos-delay="300">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
@@ -97,7 +97,7 @@
       {{ else }}
       <div class="col-lg-6 col-md-7 text-center text-md-left order-md-1 order-2">
         <p class="subtitle" data-aos="fade-right">{{ .subtitle }}</p>
-        <h2 class="section-title" data-aos="fade-right" data-aos-delay="200">{{ .title }}</h2>
+        <h2 class="section-title" data-aos="fade-right" data-aos-delay="200">{{ .title | markdownify  }}</h2>
         <p class="mb-4" data-aos="fade-right" data-aos-delay="300">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
@@ -142,7 +142,7 @@
       </div>
       <div class="col-md-6 px-4">
         <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
-        <h2 class="section-title" data-aos="fade-up" data-aos-delay="200">{{ .title }}</h2>
+        <h2 class="section-title" data-aos="fade-up" data-aos-delay="200">{{ .title | markdownify  }}</h2>
         <p class="mb-4" data-aos="fade-up" data-aos-delay="400">{{ .content | markdownify }}</p>
       </div>
     </div>
@@ -160,7 +160,7 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
-        <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .title }}</h2>
+        <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .title | markdownify  }}</h2>
       </div>
     </div>
     <div class="row testimonial-slider" data-aos="fade-up" data-aos-delay="200">
@@ -174,6 +174,14 @@
         </div>
       </div>
       {{ end }}
+    </div>
+    <div class="row align-items-center mt-3">
+      <div class="col-lg-6 col-md-5 text-center mb-4 mb-md-0">
+        <img src="{{ .image }}" class="img-fluid" alt="about-image" data-aos="fade-right" style="width:60%;">
+      </div>
+      <div class="col-lg-6 col-md-7 text-center text-md-left">
+        <h4 class="section-title voice_lead" data-aos="fade-up" data-aos-delay="100">{{ .title_lead | markdownify  }}</h4>
+      </div>
     </div>
   </div>
 </section>

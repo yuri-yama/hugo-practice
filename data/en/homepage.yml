@@ -2,13 +2,13 @@
 banner:
   enable : true
   bg_image : "images/background/banner.png"
-  title : "Build Your Business Together"
-  watermark : "Build"
-  content : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+  title : "家族信託相談なら<br>トリニティグループ"
+  watermark : ""
+  content : "専門の司法書士に相談できるから安心<br>大切な家族を将来にわたってサポートいたします"
   image : "images/banner/banner-1.png"
   button:
     enable : true
-    label : "Get Agico"
+    label : "まずは気軽にお問い合わせ"
     link : "#"
 
 ############################## Partners #################################
@@ -24,23 +24,23 @@ partner:
 ################################ Features ###############################
 feature:
   enable : true
-  subtitle : "fetures"
-  title : "exclusive features"
+  subtitle : "REASON FOR CHOOSING"
+  title : "トリニティグループが選ばれる3つの理由"
   feature_item:
     # feature item loop
-    - name : "Free Trial"
+    - name : "実績多数"
       image : "images/feature/feature-1.png"
-      content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
-      
-    # feature item loop
-    - name : "No Setup"
-      image : "images/feature/feature-2.png"
-      content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+      content : "家族信託はお客様一人ひとり、オーダーメイドでつくるため、専門家の技術力が重要です。<br>トリニティグループでは、150件以上の実績に裏打ちされたノウハウを有する専門の司法書士が一件一件のご相談に専任で対応しますので、安心してご相談いただけます。"
 
     # feature item loop
-    - name : "Optimized Data"
+    - name : "明朗会計"
+      image : "images/feature/feature-2.png"
+      content : "トリニティグループでは、家族信託のコンサルティングだけでなく、契約書の作成業務などの専門領域までワンストップで対応いたしますので、ご依頼いただく前に家族信託に必要なトータルの費用を明確に算定することが可能です。お客様はトータルの費用を確認後、家族信託を活用するかじっくりとご検討いただくことができます。"
+
+    # feature item loop
+    - name : "スピード対応"
       image : "images/feature/feature-3.png"
-      content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+      content : "家族信託は、迅速に手続きを進めることが求められる場合もあります。<br>トリニティグループはグループ内に司法書士、行政書士を擁していますので、迅速に手続きを進めることが可能です。最短、２週間程度で家族信託の組成を行うことも可能となっています。"
 
 ##################################### About #############################
 about:
@@ -48,80 +48,64 @@ about:
   about_item:
     # about item loop
     - image : "images/about/about-1.png"
-      subtitle : "about agico"
-      title : "Eausmod tempor magna nostrud exercitation"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud
-              exercitation ullamco laboris nisi aliquip commodo consequat. duis aute."
+      subtitle : "WHAT IS A FAMILY TRUST"
+      title : "家族信託とは"
+      content : "自分の財産をご家族などの信頼できる第三者に託し、将来にわたって財産の管理をしてもらう制度です。認知症対策や、複雑な管理が必要な財産を相続前承継（管理権限のみ）として多くの方に利用されています。"
       button:
         enable : true
-        label : "read more"
+        label : "詳しくみる"
         link : "about"
-        
+
     # about item loop
-    - image : "images/about/about-2.png"
-      subtitle : "about agico"
-      title : "Rehenderit volupate velit proident sunt culpa"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud
-              exercitation ullamco laboris nisi aliquip commodo consequat. duis aute."
-      button:
-        enable : true
-        label : "read more"
-        link : "about"
+    # - image : "images/about/about-2.png"
+    #   subtitle : "about agico"
+    #   title : "Rehenderit volupate velit proident sunt culpa"
+    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+    #           incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud
+    #           exercitation ullamco laboris nisi aliquip commodo consequat. duis aute."
+    #   button:
+    #     enable : true
+    #     label : "read more"
+    #     link : "about"
 
 ############################ video ###############################
 promo_video:
   enable : true
   video_thumbnail : "images/check-video.png"
-  video_link : "https://www.youtube.com/watch?v=VufDd-QL1c0"
-  subtitle : "Check Video"
-  title : "Best Way to Chat Your Customers."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis aute.
-  
-
-  Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident."
+  video_link : "https://youtu.be/r0z2imDGq34"
+  subtitle : "HOW FAMILY TRUSTS WORK"
+  title : "家族信託のしくみ"
+  content : "家族信託とは、資産（預金・自宅・収益不動産・株式等）を保有する方が、その管理・運用・処分等を信頼できる第三者に託す行為です。<br><br>
+  次世代へ自らの資産や事業の承継を検討されている方や、自らの資産管理に手を煩わせたくない方、将来のご自身の健康状態について不安を感じていらっしゃる方など、様々な方に利用されています。<br><br>
+  長寿化、高齢化、社会保障制度の縮小などの時代背景を受け、個々人の資産管理・保全の重要性が増したことから、家族信託は今大変な注目を浴びています。"
 
 # testimonial
 testimonial:
   enable : true
-  subtitle : "testimonial"
-  title : "What Our Clients Says?"
+  subtitle : "CUSTOMER'S VOICE"
+  title : "トリニティグループの<br>家族信託を利用したお客様の声"
+  title_lead : "実際に家族信託を行ったお客様より、<br>「ご満足いただけた」<br>「ご安心いただけた」<br>という声を多数いただいています。"
+  image : "images/voice_grah.png"
   testimonial_item:
     # testimonial item loop
-    - name : "Alice kelly"
+    - name : "30代 女性（東京）"
       designation : "Happy client"
-      content : Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid dolore magna aliqu.
-            enim minim veniam quis nostrud exercittion.ullamco laboris nisi ut aliquip excepteur sint occaecat cuida
-            tat nonproident sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-            
+      content : 今回お休みのときも先生は電話やメールに対応してくださり、有難かったです。不安もありましたが、一緒に頑張りましょうと励まして下さったので安心できました。感謝の気持ちでいっぱいです。本当に有難うございました。
+
     # testimonial item loop
-    - name : "Alice kelly"
+    - name : "40代 女性（神奈川）"
       designation : "Happy client"
-      content : Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid dolore magna aliqu.
-            enim minim veniam quis nostrud exercittion.ullamco laboris nisi ut aliquip excepteur sint occaecat cuida
-            tat nonproident sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-            
+      content : 親切に対応していただき、安心してご相談することができました。今後とも、いろいろお世話になることと思いますが、家族共々、トリニティさんに信頼をおき、よろしくお願いしたいと思います。
+
     # testimonial item loop
-    - name : "Alice kelly"
+    - name : "50代 女性（東京）"
       designation : "Happy client"
-      content : Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid dolore magna aliqu.
-            enim minim veniam quis nostrud exercittion.ullamco laboris nisi ut aliquip excepteur sint occaecat cuida
-            tat nonproident sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-            
+      content : この度は苦しいところを救っていただき、本当にありがとうございました。御社をご紹介いただけてよかったです。今後ますますのご発展をお祈り申し上げます。
+
     # testimonial item loop
-    - name : "Alice kelly"
+    - name : "50代 男性（東京）"
       designation : "Happy client"
-      content : Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid dolore magna aliqu.
-            enim minim veniam quis nostrud exercittion.ullamco laboris nisi ut aliquip excepteur sint occaecat cuida
-            tat nonproident sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-            
-    # testimonial item loop
-    - name : "Alice kelly"
-      designation : "Happy client"
-      content : Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid dolore magna aliqu.
-            enim minim veniam quis nostrud exercittion.ullamco laboris nisi ut aliquip excepteur sint occaecat cuida
-            tat nonproident sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
+      content : 初めての経験だったので、満足度などの高低については評価できませんが、老後の心配の一つが消えたことに安堵しています。ありがとうございました。
 
 ############################## Download ###########################
 download:
@@ -136,7 +120,7 @@ download:
     label : "app store"
     link : "#"
 
-    
+
 ############################## pricing ###########################
 pricing:
   enable : true
