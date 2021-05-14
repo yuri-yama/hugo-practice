@@ -10,6 +10,7 @@ summaryLength = "10"
 disqusShortname = "agico" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
+publishDir = "docs"
 
 ################################### Outputs #################################
 # hugo outputs
