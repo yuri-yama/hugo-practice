@@ -1,5 +1,5 @@
 ############################# Default configuration ########################
-# baseURL = "https://demo.gethugothemes.com/agico/"
+baseURL = "https://demo.gethugothemes.com/agico/"
 title = "Agico | App Landing Hugo Template"
 theme = "agico-hugo"
 # post pagination
