@@ -146,12 +146,100 @@ icon = "fab fa-instagram"
 link = "https://instagram.com/themefisher"
 
 
+################################### Japanese language #####################################
+[Languages.ja]
+languageName = "Ja"
+languageCode = "ja"
+contentDir = "content/japanese"
+weight = 1
+home = "Home"
+# footer content
+footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+
+############################ Japanese navigation
+
+# main menu
+[[Languages.ja.menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[Languages.ja.menu.main]]
+name = "Service"
+URL = "service"
+weight = 3
+
+[[Languages.ja.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[Languages.ja.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 5
+
+[[Languages.ja.menu.main]]
+weight = 6
+name = "Pages"
+hasChildren = true
+
+  [[Languages.ja.menu.main]]
+  parent = "Pages"
+  name = "Pricing"
+  URL = "pricing"
+
+  [[Languages.ja.menu.main]]
+  parent = "Pages"
+  name = "Career"
+  URL = "career"
+
+  [[Languages.ja.menu.main]]
+  parent = "Pages"
+  name = "Team"
+  URL = "team"
+
+  [[Languages.ja.menu.main]]
+  parent = "Pages"
+  name = "FAQ"
+  URL = "faq"
+
+  [[Languages.ja.menu.main]]
+  parent = "Pages"
+  name = "Changelog"
+  URL = "changelog"
+
+#Footer menu
+[[Languages.ja.menu.footer]]
+name = "Company History"
+URL = "about"
+
+[[Languages.ja.menu.footer]]
+name = "About us"
+URL = "about"
+
+[[Languages.ja.menu.footer]]
+name = "Contact us"
+URL = "contact"
+
+[[Languages.ja.menu.footer]]
+name = "Services"
+URL = "service"
+
+[[Languages.ja.menu.footer]]
+name = "Privacy Policy"
+URL = "#"
+
+
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 # footer content
 footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
@@ -161,12 +249,12 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 ############################ English navigation
 
-# main menu    
+# main menu
 [[Languages.en.menu.main]]
 name = "About"
 URL = "about"
 weight = 2
-  
+
 [[Languages.en.menu.main]]
 name = "Service"
 URL = "service"
@@ -196,7 +284,7 @@ hasChildren = true
   parent = "Pages"
   name = "Career"
   URL = "career"
-  
+
   [[Languages.en.menu.main]]
   parent = "Pages"
   name = "Team"
@@ -206,7 +294,7 @@ hasChildren = true
   parent = "Pages"
   name = "FAQ"
   URL = "faq"
-  
+
   [[Languages.en.menu.main]]
   parent = "Pages"
   name = "Changelog"
@@ -249,12 +337,12 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 ############################ French navigation
 
-# main menu    
+# main menu
 [[Languages.fr.menu.main]]
 name = "About"
 URL = "about"
 weight = 2
-  
+
 [[Languages.fr.menu.main]]
 name = "Service"
 URL = "service"
@@ -284,17 +372,17 @@ hasChildren = true
   parent = "Pages"
   name = "Career"
   URL = "career"
-  
+
   [[Languages.fr.menu.main]]
   parent = "Pages"
   name = "Team"
   URL = "team"
-  
+
   [[Languages.fr.menu.main]]
   parent = "Pages"
   name = "FAQ"
   URL = "faq"
-  
+
   [[Languages.fr.menu.main]]
   parent = "Pages"
   name = "Changelog"

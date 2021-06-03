@@ -6,6 +6,11 @@
     <lastmod>2020-06-05T15:04:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/"
                 />
@@ -17,6 +22,11 @@
   </url><url>
     <loc>/faq/</loc>
     <lastmod>2020-06-05T15:04:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/faq/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -32,6 +42,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/tags/advice/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/advice/"
                 />
@@ -43,6 +58,11 @@
   </url><url>
     <loc>/categories/afiliated-marketing/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/categories/afiliated-marketing/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -58,6 +78,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/blog/"
                 />
@@ -69,6 +94,11 @@
   </url><url>
     <loc>/tags/business/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/tags/business/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -84,6 +114,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/career/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/career/"
                 />
@@ -95,6 +130,11 @@
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -110,6 +150,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/tags/consultancy/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/consultancy/"
                 />
@@ -121,6 +166,11 @@
   </url><url>
     <loc>/contact/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/contact/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -136,6 +186,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/blog/cupidat-non-proident.1/"
                 />
@@ -147,6 +202,11 @@
   </url><url>
     <loc>/blog/cupidat-non-proident.10/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.10/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -162,6 +222,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/blog/cupidat-non-proident.2/"
                 />
@@ -173,6 +238,11 @@
   </url><url>
     <loc>/blog/cupidat-non-proident.3/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.3/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -188,6 +258,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/blog/cupidat-non-proident.4/"
                 />
@@ -199,6 +274,11 @@
   </url><url>
     <loc>/blog/cupidat-non-proident.5/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.5/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -214,6 +294,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.6/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/blog/cupidat-non-proident.6/"
                 />
@@ -225,6 +310,11 @@
   </url><url>
     <loc>/blog/cupidat-non-proident.7/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.7/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -240,6 +330,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.8/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/blog/cupidat-non-proident.8/"
                 />
@@ -251,6 +346,11 @@
   </url><url>
     <loc>/blog/cupidat-non-proident.9/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/blog/cupidat-non-proident.9/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -266,6 +366,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/categories/development-maping/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/development-maping/"
                 />
@@ -277,6 +382,11 @@
   </url><url>
     <loc>/tags/finance/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/tags/finance/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -292,6 +402,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/categories/investment-planning/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/investment-planning/"
                 />
@@ -303,6 +418,11 @@
   </url><url>
     <loc>/tags/market-analysis/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/tags/market-analysis/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -318,6 +438,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/categories/market-strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/market-strategy/"
                 />
@@ -329,6 +454,11 @@
   </url><url>
     <loc>/tags/marketing/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/tags/marketing/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -344,6 +474,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/search/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/search/"
                 />
@@ -355,6 +490,11 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -370,6 +510,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/categories/targated-marketing/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/targated-marketing/"
                 />
@@ -381,6 +526,11 @@
   </url><url>
     <loc>/categories/valuable-idea/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/categories/valuable-idea/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -396,6 +546,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/career/web-project-manager.1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/career/web-project-manager.1/"
                 />
@@ -407,6 +562,11 @@
   </url><url>
     <loc>/career/web-project-manager.2/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/career/web-project-manager.2/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -422,6 +582,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/career/web-project-manager.3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/career/web-project-manager.3/"
                 />
@@ -433,6 +598,11 @@
   </url><url>
     <loc>/career/web-project-manager.4/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/career/web-project-manager.4/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -448,6 +618,11 @@
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/career/web-project-manager.5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/career/web-project-manager.5/"
                 />
@@ -458,6 +633,11 @@
                 />
   </url><url>
     <loc>/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/about/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -472,6 +652,11 @@
     <loc>/changelog/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/changelog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/changelog/"
                 />
@@ -482,6 +667,11 @@
                 />
   </url><url>
     <loc>/pricing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/pricing/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -496,6 +686,11 @@
     <loc>/service/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="/ja/service/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/service/"
                 />
@@ -506,6 +701,11 @@
                 />
   </url><url>
     <loc>/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/team/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
